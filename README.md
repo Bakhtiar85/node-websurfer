@@ -98,7 +98,7 @@ The following environment variables are required for the bot to function:
 - **`REACT_APP_API_URL`**: Do not add '/' at the end of the backend URL.
 
 ## Usage
-just a test
+just a test for n8n
 ### Running the bot in development mode
 
 <http://localhost:3000> for frontend
